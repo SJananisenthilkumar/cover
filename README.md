@@ -96,11 +96,11 @@ Publish the website in the LocalHost.
             <div class="hr1"><hr ></div>
             <div class="booktitle"><h1> DATA SCIENCE AND ITS USES</h1></div>
             <div class="subtitle">Complete Guide To Master Data Process,Mining,Data-analytic</div>
-            <div class="mypic"><img src="photo.png" width="130" height="140px" ></div>
+            <div class="mypic"><img src="photo.png" height="140px" ></div>
             <div class="ed">SPECIAL EDITION</div>
             <div class="hr2"><hr ></div>
-            <div class="author"><p><b>JANANI</p></b></div>
-            <div class="pub"> <h2>SEC</h2></div>
+            <div class="author">JANANI</div>
+            <div class="pb"> <h2>SEC</h2></div>
         </div>
         </body>
     </head>
